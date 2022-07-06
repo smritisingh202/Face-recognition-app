@@ -1,0 +1,17 @@
+.faceimage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:32%;
+ 
+}
+
+
+.bounding-box{
+    position: absolute;
+    box-shadow: 0 0 0 3px #A020F0 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
