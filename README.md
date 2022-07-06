@@ -1,2 +1,2 @@
-# Face-recognition-app-
+# Face-recognition-app
 -----add later 
