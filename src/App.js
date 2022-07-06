@@ -12,7 +12,7 @@ import Clarifai from 'clarifai';
 
 
 const app = new Clarifai.App({
- apiKey: 'cdc2e11518e84aeb9e07259fa6406deb'
+ apiKey: '//Enter your own Clarifai API key here by the accessing the key as directed in README.md document'
 });
 
 class App extends React.Component{
