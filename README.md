@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Face recognition App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Face recognition app is a web app developed using React .It has the potential to detect face in image uploaded by user. This app uses Clarifai API to detect faces in the uploaded image.
 
 ## Available Scripts
 
